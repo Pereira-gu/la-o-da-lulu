@@ -157,7 +157,7 @@ async function enviarPedidoWhatsApp() {
         return;
     }
 
-    const telefone = "5511915072940";
+    const telefone = "5511948689109";
     let msg = "Olá Luara! 👋\n\nGostaria de encomendar estes modelos do meu carrinho:\n\n";
     let total = 0;
     

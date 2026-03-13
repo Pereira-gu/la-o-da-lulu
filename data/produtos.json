@@ -51,8 +51,8 @@
   },
   {
     "id": 6,
-    "nome": "Laço rosa girl",
-    "description": "Lindo Laço rosa girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl rosa ",
+    "description": "Lindo Laço girl rosa feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0010.webp",
     "tipo": "laco",
@@ -61,8 +61,8 @@
   },
   {
     "id": 7,
-    "nome": "Laço azul girl",
-    "description": "Lindo Laço azul girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl azul",
+    "description": "Lindo Laço girl azul feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0011.webp",
     "tipo": "laco",
@@ -71,8 +71,8 @@
   },
   {
     "id": 8,
-    "nome": "Laço rosa-azulado girl",
-    "description": "Lindo Laço rosa-azulado girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl rosa-azulado",
+    "description": "Lindo Laço girl rosa-azulado feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0012.webp",
     "tipo": "laco",
@@ -81,8 +81,8 @@
   },
   {
     "id": 9,
-    "nome": "Laço rosalite-azul girl",
-    "description": "Lindo Laço rosalite-azul girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl rosalite-azul",
+    "description": "Lindo Laço girl rosalite-azul feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0013.webp",
     "tipo": "laco",
@@ -91,8 +91,8 @@
   },
   {
     "id": 10,
-    "nome": "Laço roxo-dourado girl",
-    "description": "Lindo Laço roxo-dourado girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl roxo-dourado",
+    "description": "Lindo Laço girl roxo-dourado feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0014.webp",
     "tipo": "laco",
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "nome": "Laço fofi vermelho",
+    "nome": "Laço Fofi vermelho",
     "description": "Lindo Laço fofi vermelho feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "8,00",
     "imagem": "assets/img/IMG_0015.webp",
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "nome": "Parzinho manta rosa",
+    "nome": "Parzinho Manta rosa",
     "description": "Lindo Parzinho manta rosa feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "8,00",
     "imagem": "assets/img/IMG_0016.webp",
@@ -121,8 +121,8 @@
   },
   {
     "id": 13,
-    "nome": "Laço marrom simples",
-    "description": "Lindo Laço marrom simples feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Simples marrom",
+    "description": "Lindo Laço simples marrom feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": "assets/img/IMG_0017.webp",
     "tipo": "laco",
@@ -131,8 +131,8 @@
   },
   {
     "id": 14,
-    "nome": "Laço roxo simples",
-    "description": "Lindo Laço roxo simples feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Simples roxo",
+    "description": "Lindo Laço simples roxo feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": "assets/img/IMG_0018.webp",
     "tipo": "laco",
@@ -141,8 +141,8 @@
   },
   {
     "id": 15,
-    "nome": "Laço rosa-envelhecido simples",
-    "description": "Lindo Laço rosa-envelhecido simples feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Simples rosa-envelhecido",
+    "description": "Lindo Laço simples rosa-envelhecido feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": "assets/img/IMG_0019.webp",
     "tipo": "laco",
@@ -151,8 +151,8 @@
   },
   {
     "id": 16,
-    "nome": "Laço Bege-Pick girl",
-    "description": "Lindo Laço Bege-Pick girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl bege-pick",
+    "description": "Lindo Laço girl Bege-Pick feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0020.webp",
     "tipo": "laco",
@@ -161,8 +161,8 @@
   },
   {
     "id": 17,
-    "nome": "Laço Pessego girl",
-    "description": "Lindo Laço Pessego girl feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Girl pessego",
+    "description": "Lindo Laço girl Pessego feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_0021.webp",
     "tipo": "laco",
@@ -173,7 +173,7 @@
     "id": 18,
     "nome": "Laço Doce lilás",
     "description": "Acessório Laço Doce lilás produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0027.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -183,7 +183,7 @@
     "id": 19,
     "nome": "Laço Doce azul marinho",
     "description": "Acessório Laço Doce azul marinho produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0028.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -191,9 +191,9 @@
   },
   {
     "id": 20,
-    "nome": "Laço x",
-    "description": "Acessório Laço x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "nome": "Laço Doce+ lilás",
+    "description": "Acessório Laço Doce+ lilás produzido artesanalmente com todo cuidado e carinho.",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0029.webp",
     "tipo": "laco",
     "categoria": "geral",
@@ -201,9 +201,9 @@
   },
   {
     "id": 21,
-    "nome": "Laço x",
-    "description": "Acessório Laço x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "nome": "Laço Doce+ azul marinho",
+    "description": "Acessório Laço Doce+ azul marinho produzido artesanalmente com todo cuidado e carinho.",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0030.webp",
     "tipo": "laco",
     "categoria": "geral",
@@ -213,7 +213,7 @@
     "id": 22,
     "nome": "Laço Doce rosa",
     "description": "Acessório Laço Doce rosa produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0031.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -223,7 +223,7 @@
     "id": 23,
     "nome": "Laço Doce bege",
     "description": "Acessório Laço Doce bege produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0038.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -233,7 +233,7 @@
     "id": 24,
     "nome": "Laço Doce pink",
     "description": "Acessório Laço Doce pink produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0039.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -243,7 +243,7 @@
     "id": 25,
     "nome": "Laço Doce pessego",
     "description": "Acessório Laço Doce pessego produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "preco": "6,00",
     "imagem": "assets/img/IMG_0040.webp",
     "tipo": "laco",
     "categoria": "doce",
@@ -320,65 +320,22 @@
     "destaque": true
   },
   {
-    "id": 33,
-    "nome": "x",
-    "description": "Acessório x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_0049.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
-    "id": 34,
-    "nome": "x",
-    "description": "Acessório x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_0050.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
-    "id": 35,
-    "nome": "x",
-    "description": "Acessório x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_0051.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
-    "id": 36,
-    "nome": "?",
-    "description": "Acessório ? produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_0055.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 37,
-    "nome": "?",
-    "description": "Acessório ? produzido artesanalmente com todo cuidado e carinho.",
+    "nome": "Liguinha de Cabelo",
+    "description": "Acessório Liguinha de cabelo produzido artesanalmente com todo cuidado e carinho.",
     "preco": "25,00",
-    "imagem": "assets/img/IMG_0056.webp",
+    "imagem": ["assets/img/IMG_0056.webp", "assets/img/IMG_0055.webp"],
     "categoria": "geral",
+    "tipo": "liguinha",
     "destaque": true
   },
   {
     "id": 38,
-    "nome": "?",
-    "description": "Acessório ? produzido artesanalmente com todo cuidado e carinho.",
+    "nome": "Escova Mágica",
+    "description": "Acessório Escova Mágica produzido artesanalmente com todo cuidado e carinho.",
     "preco": "25,00",
-    "imagem": "assets/img/IMG_0058.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
-    "id": 39,
-    "nome": "?",
-    "description": "Acessório ? produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_0059.webp",
+    "imagem": ["assets/img/IMG_0058.webp", "assets/img/IMG_0059.webp"],
+    "tipo": "escova",
     "categoria": "geral",
     "destaque": true
   },
@@ -414,7 +371,7 @@
   },
   {
     "id": 44,
-    "nome": "Laço Borboleta Rosa-Choque",
+    "nome": "Laço Borboleta rosa-choque",
     "description": "Lindo Laço Borboleta Rosa-Choque feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_9912.webp",
@@ -424,7 +381,7 @@
   },
   {
     "id": 45,
-    "nome": "Laço Borboleta Rosa-leve",
+    "nome": "Laço Borboleta rosa-leve",
     "description": "Lindo Laço Borboleta Rosa-leve feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_9913.webp",
@@ -434,7 +391,7 @@
   },
   {
     "id": 46,
-    "nome": "Laço Borboleta Rosa-envelhecido",
+    "nome": "Laço Borboleta rosa-envelhecido",
     "description": "Lindo Laço Borboleta Rosa-envelhecido feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "6,00",
     "imagem": "assets/img/IMG_9914.webp",
@@ -444,7 +401,7 @@
   },
   {
     "id": 47,
-    "nome": "Laço personagem rosa-lilás",
+    "nome": "Laço Personagem rosa-lilás",
     "description": "Lindo Laço personagem rosa-lilás feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": "assets/img/IMG_9916.webp",
@@ -453,18 +410,9 @@
     "destaque": true
   },
   {
-    "id": 48,
-    "nome": "x",
-    "description": "Acessório x produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
-    "imagem": "assets/img/IMG_9919.webp",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 49,
-    "nome": "Laço Personagem azul",
-    "description": "Lindo Laço Personagem azul feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Laço Personagem cinderela",
+    "description": "Lindo Laço Personagem cinderela feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": "assets/img/IMG_9920.webp",
     "tipo": "laco",
@@ -473,7 +421,7 @@
   },
   {
     "id": 50,
-    "nome": "Laço personagem foguete roxxo",
+    "nome": "Laço Personagem foguete roxxo",
     "description": "Lindo Laço personagem foguete roxxo feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": "assets/img/IMG_9926.webp",
@@ -483,7 +431,7 @@
   },
   {
     "id": 51,
-    "nome": "Laço personagem stitch",
+    "nome": "Laço Personagem stitch",
     "description": "Lindo Laço personagem stitch feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": "assets/img/IMG_9927.webp",
@@ -493,34 +441,37 @@
   },
   {
     "id": 52,
-    "nome": "Laço Img 9928",
-    "description": "Acessório Laço Img 9928 produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "nome": "Laço Personagem Emilly Vick rosa",
+    "description": "Lindo Laço personagem Emilly rosa Vick feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "preco": "12,00",
     "imagem": "assets/img/IMG_9928.webp",
+    "tipo": "laco",
     "categoria": "geral",
     "destaque": true
   },
   {
     "id": 53,
-    "nome": "Laço Img 9929",
-    "description": "Acessório Laço Img 9929 produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "nome": "Laço Personagem Emilly Vick rosa forte",
+    "description": "Lindo Laço personagem Emilly Vick rosa forte feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "preco": "12,00",
     "imagem": "assets/img/IMG_9929.webp",
+    "tipo": "laco",
     "categoria": "geral",
     "destaque": true
   },
   {
     "id": 54,
-    "nome": "Laço Img 9930",
-    "description": "Acessório Laço Img 9930 produzido artesanalmente com todo cuidado e carinho.",
-    "preco": "25,00",
+    "nome": "Laço Personagem Emilly Vick rosa claro",
+    "description": "Lindo Laço personagem Emilly Vick rosa claro feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "preco": "12,00",
     "imagem": "assets/img/IMG_9930.webp",
+    "tipo": "laco",
     "categoria": "geral",
     "destaque": true
   },
   {
     "id": 55,
-    "nome": "Laço personagem princesa",
+    "nome": "Laço Personagem princesa",
     "description": "Lindo Laço personagem princesa feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": "assets/img/IMG_9932.webp",
@@ -530,8 +481,8 @@
   },
   {
     "id": 56,
-    "nome": "Tiara Esmeralda fru fru",
-    "description": "Lindo Tiara Esmeralda fru fru feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Tiara Fru Fru esmeralda",
+    "description": "Lindo Tiara fru fru esmeralda feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": ["assets/img/IMG_9939.webp", "assets/img/IMG_9940.webp"],
     "tipo": "tiara",
@@ -539,18 +490,8 @@
     "destaque": true
   },
   {
-    "id": 57,
-    "nome": "Tiara Esmeralda fru fru 2*",
-    "description": "Lindo Tiara Esmeralda fru fru 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9940.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 58,
-    "nome": "Tiara crochê azul",
+    "nome": "Tiara Crochê azul",
     "description": "Lindo Tiara crochê azul feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": ["assets/img/IMG_9944.webp", "assets/img/IMG_9948.webp"],
@@ -559,18 +500,8 @@
     "destaque": true
   },
   {
-    "id": 59,
-    "nome": "Tiara crochê azul 2*",
-    "description": "Lindo Tiara crochê verde feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "12,00",
-    "imagem": "assets/img/IMG_9948.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 60,
-    "nome": "Tiara crochê verde",
+    "nome": "Tiara Crochê verde",
     "description": "Lindo Tiara crochê verde 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "12,00",
     "imagem": ["assets/img/IMG_9949.webp", "assets/img/IMG_9951.webp"],
@@ -579,18 +510,8 @@
     "destaque": true
   },
   {
-    "id": 61,
-    "nome": "Tiara chanel verde 2*",
-    "description": "Lindo Tiara chanel verde feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9951.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 62,
-    "nome": "Tiara chanel roxo",
+    "nome": "Tiara Chanel roxo",
     "description": "Lindo Tiara chanel roxo feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": ["assets/img/IMG_9952.webp", "assets/img/IMG_9955.webp"],
@@ -599,18 +520,8 @@
     "destaque": true
   },
   {
-    "id": 63,
-    "nome": "Tiara chanel roxo 2*",
-    "description": "Lindo Tiara chanel roxo 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9955.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 64,
-    "nome": "Tiara chanel azul-marinho",
+    "nome": "Tiara Chanel azul-marinho",
     "description": "Lindo Tiara chanel azul-marinho feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": ["assets/img/IMG_9956.webp", "assets/img/IMG_9959.webp"],
@@ -619,19 +530,9 @@
     "destaque": true
   },
   {
-    "id": 65,
-    "nome": "Tiara chanel azul-marinho 2*",
-    "description": "Lindo Tiara chanel azul-marinho 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9959.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 66,
-    "nome": "Tiara verde-limão fru fru",
-    "description": "Lindo Tiara verde-limão fru fru feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Tiara Fru Fru verde-limão",
+    "description": "Lindo Tiara fru fru verde-limão feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": ["assets/img/IMG_9960.webp", "assets/img/IMG_9961.webp"],
     "tipo": "tiara",
@@ -639,31 +540,11 @@
     "destaque": true
   },
   {
-    "id": 67,
-    "nome": "Tiara verde-limão fru fru 2*",
-    "description": "Lindo Tiara verde-limão fru fru 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9961.webp",
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
     "id": 68,
-    "nome": "Tiara preto fru fru",
-    "description": "Lindo Tiara preto fru fru feito à mão com materiais de alta qualidade para o máximo conforto.",
+    "nome": "Tiara Fru Fru preto",
+    "description": "Lindo Tiara fru fru preto feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "10,00",
     "imagem": ["assets/img/IMG_9962.webp", "assets/img/IMG_9963.webp"],
-    "tipo": "tiara",
-    "categoria": "geral",
-    "destaque": true
-  },
-  {
-    "id": 69,
-    "nome": "Tiara preto fru fru 2*",
-    "description": "Lindo Tiara preto fru fru 2 feito à mão com materiais de alta qualidade para o máximo conforto.",
-    "preco": "10,00",
-    "imagem": "assets/img/IMG_9963.webp",
     "tipo": "tiara",
     "categoria": "geral",
     "destaque": true
@@ -700,7 +581,7 @@
   },
   {
     "id": 73,
-    "nome": "Parzinhos manta azul-marinho",
+    "nome": "Parzinhos Manta azul-marinho",
     "description": "Lindo Parzinhos manta azul-marinho feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "8,00",
     "imagem": "assets/img/IMG_9967.webp",
@@ -710,7 +591,7 @@
   },
   {
     "id": 74,
-    "nome": "Parzinhos manta azul-envelhecido",
+    "nome": "Parzinhos Manta azul-envelhecido",
     "description": "Lindo Parzinhos manta azul-envelhecido feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "8,00",
     "imagem": "assets/img/IMG_9968.webp",
@@ -740,7 +621,7 @@
   },
   {
     "id": 77,
-    "nome": "Laço fofi dourado",
+    "nome": "Laço Fofi dourado",
     "description": "Lindo Laço fofi dourado feito à mão com materiais de alta qualidade para o máximo conforto.",
     "preco": "8,00",
     "imagem": "assets/img/IMG_9974.webp",
