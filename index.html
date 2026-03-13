@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laços da Luara | Artesanato com Amor</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/icon.png">
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bonbon&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Quicksand', sans-serif; }
+        .bg-candy { background-color: #fdf2f8; }
+        html { scroll-behavior: smooth; }
+        
+        /* Efeito de zoom suave para as imagens */
+        .img-zoom {
+            transition: transform 0.5s ease;
+        }
+        .img-zoom:hover {
+            transform: scale(1.1);
+        }
+        
+    </style>
+</head>
+<body class="bg-candy text-gray-800">
+    <div class="fixed top-20 -left-10 opacity-15 pointer-events-none z-0 transform -rotate-12">
+        <img src="assets/icons/icon.png" class="w-40 md:w-64">
+    </div>
+
+    <div class="fixed bottom-10 -right-10 opacity-15 pointer-events-none z-0 transform rotate-12">
+            <img src="assets/icons/icon.png" class="w-48 md:w-80">
+    </div>
+
+    <a href="https://wa.me/5511999999999" target="_blank" class="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition-all z-[100] flex items-center justify-center">
+        <svg class="w-8 h-8" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.438 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981z"/>
+        </svg>
+    </a>
+
+    <nav class="p-6 flex justify-between items-center bg-white shadow-sm sticky top-0 z-50">
+        <h1 class="text-2xl font-bold text-pink-500">Laços da Luara</h1>
+        <div class="flex gap-4">
+            <button onclick="enviarPedidoWhatsApp()" class="bg-green-500 text-white px-4 py-2 rounded-full text-sm font-semibold hover:bg-green-600 transition shadow-md flex items-center gap-2">
+                Finalizar Lista (<span id="contagem-favoritos">0</span>)
+            </button>
+            <button onclick="renderizarProdutos('todos')" class="bg-pink-500 text-white px-4 py-2 rounded-full text-sm font-semibold hover:bg-pink-600 transition shadow-md">Ver Tudo</button>
+        </div>
+    </nav>
+
+    <header class="container mx-auto px-6 py-16 text-center">
+    <h2 class="text-5xl md:text-7xl mb-4 text-pink-600" style="font-family: 'borbon', cursive;">
+        Feitos à mão, com amor em cada laço
+    </h2>
+    <p class="text-lg text-gray-600 mb-8 font-quicksand">Acessórios exclusivos para momentos inesquecíveis.</p>
+    </header>
+
+    <section class="container mx-auto px-6 py-4">
+        <div class="flex flex-col md:flex-row gap-4">
+            <input type="text" id="campo-busca" oninput="filtrarGeral()" placeholder="🔍 Pesquisar por cor ou modelo..." 
+                   class="flex-1 p-3 rounded-lg border border-pink-200 focus:outline-none focus:ring-2 focus:ring-pink-400">
+            
+            <select id="filtro-tipo" onchange="filtrarGeral()" class="p-3 rounded-lg border border-pink-200 text-gray-600 bg-white">
+                <option value="todos">Todos os tipos</option>
+                <option value="laco">Laço</option>
+                <option value="faixa">Faixinha</option>
+                <option value="parzinho">Parzinho</option>
+                <option value="tiara">Tiara</option>
+            </select>
+        </div>
+    </section>
+
+    <section id="catalogo" class="container mx-auto px-6 py-12">
+        <h3 class="text-2xl font-bold mb-8 text-center border-b-2 border-pink-200 inline-block pb-2">Catálogo</h3>
+        <div id="container-produtos" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            </div>
+    </section>
+
+    <footer class="bg-white py-12 text-center">
+        <div class="mb-6 flex justify-center gap-6 text-gray-400">
+            <span>📍 Parque do Carmo, SP</span>
+            <span>📸 @lacosdaluara__</span>
+        </div>
+        <p class="text-gray-500 italic">"Pequenos detalhes, grandes sorrisos."</p>
+        <div class="mt-8">
+            <span class="text-xs text-gray-400 uppercase tracking-widest">© 2026 Laços da Luara</span>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+
+    <div id="modal-detalhes" class="fixed inset-0 z-[110] hidden flex items-center justify-center p-4 bg-black bg-opacity-60 backdrop-blur-sm">
+    <div class="bg-white rounded-2xl max-w-4xl w-full max-h-[90vh] overflow-hidden relative shadow-2xl flex flex-col md:flex-row">
+        <div class="w-full md:w-2/3 bg-gray-50 flex items-center justify-center relative min-h-[400px]">
+            <img id="modal-img" src="" class="max-w-full max-h-[600px] object-contain">
+            
+            <div id="nav-carrossel" class="hidden absolute inset-0 flex justify-between items-center px-4 pointer-events-none">
+                <button onclick="mudarImagem(-1)" class="pointer-events-auto bg-white/80 p-3 rounded-full shadow-lg text-pink-500 hover:bg-white transition">❮</button>
+                <button onclick="mudarImagem(1)" class="pointer-events-auto bg-white/80 p-3 rounded-full shadow-lg text-pink-500 hover:bg-white transition">❯</button>
+            </div>
+        </div>
+
+        <div class="p-8 w-full md:w-1/3 flex flex-col border-l border-gray-100">
+            <button onclick="fecharModal()" class="self-end text-gray-400 hover:text-pink-500 mb-4">
+                <svg class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-width="2" d="M6 18L18 6M6 6l12 12" /></svg>
+            </button>
+            <h2 id="modal-nome" class="text-3xl font-bold text-pink-600 mb-2"></h2>
+            <p id="modal-tipo" class="text-xs uppercase tracking-widest text-gray-400 mb-4 font-bold"></p>
+            <p id="modal-desc" class="text-gray-600 mb-8 italic"></p>
+            <div class="mt-auto">
+                <span id="modal-preco" class="text-3xl font-bold text-gray-800 block mb-4"></span>
+                <button id="modal-btn-zap" class="w-full bg-green-500 text-white py-4 rounded-xl font-bold hover:bg-green-600 transition shadow-lg flex items-center justify-center gap-2">
+                    Pedir no WhatsApp
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
